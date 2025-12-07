@@ -1,0 +1,43 @@
+/* Import Font tiếng Việt xịn từ Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Định nghĩa biến màu để dùng chung */
+  --color-gold: #fbbf24;
+  --color-red: #dc2626;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  /* Font mặc định cho văn bản thường */
+  font-family: 'Inter', sans-serif; 
+  background-color: #0f172a;
+  color: #e2e8f0;
+}
+
+/* Class riêng cho Tiêu đề (dùng font có chân sang trọng) */
+.font-serif {
+  font-family: 'Merriweather', serif;
+}
+
+/* Hiệu ứng thanh cuộn đẹp hơn */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
