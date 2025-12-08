@@ -51,7 +51,7 @@ const GroupIntro = () => {
               poster="/images/video-poster.jpg" // (Tùy chọn) Ảnh bìa khi chưa bấm play
             >
               {/* Lưu ý: Bạn cần đặt file video giới thiệu vào thư mục public */}
-              <source src="/3129902-uhd_3840_2160_25fps.mp4" type="video/mp4" />
+              <source src="/VIDEO_thuyettrinh.mp4" type="video/mp4" />
               Trình duyệt không hỗ trợ thẻ video.
             </video>
 
