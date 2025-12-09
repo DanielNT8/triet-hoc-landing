@@ -19,7 +19,7 @@ export const CASE_STUDY_DATA = {
         "Người dân có thu nhập ổn định.",
         "Hạ tầng du lịch, nhà cửa, đường xá phát triển.",
         "Trẻ em có điều kiện học hành.",
-        "Cộng đồng không bị bỏ lại phía sau về kinh tế."
+        "Cộng đồng không bị bỏ lại phía sau về kinh tế"
       ],
       conclusion: 
       (
