@@ -135,6 +135,6 @@ export const CASE_STUDY_DATA = {
   finalConclusion: {
     title: "Kết luận theo tinh thần Mác-xít",
     mainText: "Phát triển kinh tế là đúng, nhưng phát triển đánh đổi văn hóa là phản tiến bộ.",
-    subText: "Sự tiến bộ phải là: Nâng cao vật chất + Giữ gìn giá trị tinh thần + Tạo năng lực tự chủ. Nếu không, bản làng chỉ giàu bề mặt nhưng nghèo bản sắc."
+    subText: "Sự tiến bộ phải là: Nâng cao vật chất + Giữ gìn giá trị tinh thần + Tạo năng lực tự chủ. Nếu không, bản làng chỉ giàu bề mặt nhưng nghèo bản sắc"
   }
 };
