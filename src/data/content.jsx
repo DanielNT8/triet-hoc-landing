@@ -78,7 +78,7 @@ export const CASE_STUDY_DATA = {
         }
       },
 
-      conclusion: "Đây không phải là phát triển văn hóa, mà là TƯ BẢN HÓA VĂN HÓA."
+      conclusion: "Đây không phải là phát triển văn hóa, mà là TƯ BẢN HÓA VĂN HÓA"
     },
     {
       id: 3,
