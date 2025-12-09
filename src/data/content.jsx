@@ -88,14 +88,14 @@ export const CASE_STUDY_DATA = {
       theory: "Mác cảnh báo: Cơ sở vật chất phát triển dựa trên hủy hoại giá trị tinh thần cốt lõi → Phát triển méo mó, mất gốc.",
       content: "Khi văn hóa mất bản sắc, sản phẩm du lịch trở nên đồng dạng, sao chép, thiếu riêng biệt, khiến thị trường sụp đổ. Người dân mất kĩ năng truyền thống → lệ thuộc hoàn toàn vào nhà đầu tư, lợi ích kinh tế là tạm thời, nhưng tổn thất văn hóa là vĩnh viễn.",
       highlight: "Sự phát triển phải nâng cao đời sống vật chất nhưng đồng thời duy trì những giá trị văn hóa tiến bộ, nhân đạo của cộng đồng.",
-      conclusion: "Nếu văn hóa biến mất → Phát triển không phải của dân tộc, mà là của nhà tư bản."
+      conclusion: "Nếu văn hóa biến mất → Phát triển không phải của dân tộc, mà là của nhà tư bản"
     },
     {
       id: 4,
       type: "critical",
       icon: <HeartHandshake className="w-8 h-8 text-blue-500" />,
       title: "4. Giao lưu văn hóa hay Xâm lăng văn hóa?",
-      theory: "Trong lý luận Mác-xít, đây gọi là: Chủ nghĩa thực dân kiểu mới về văn hóa (Neo-cultural colonialism).",
+      theory: "Trong lý luận Mác-xít, đây gọi là: Chủ nghĩa thực dân kiểu mới về văn hóa (Neo-cultural colonialism)",
       comparisonGroup: {
 
          // Bên ĐỎ: Thực tế sai lệch
@@ -129,7 +129,7 @@ export const CASE_STUDY_DATA = {
         "Người dân bị biến thành 'diễn viên văn hóa' chứ không phải chủ thể văn hóa.",
         "Truyền thống bị “đóng khung” theo kịch bản của tư bản."
       ],
-      conclusion: "Kết luận: Văn hóa không còn sống trong cộng đồng mà chỉ tồn tại như công cụ kinh doanh."
+      conclusion: "Kết luận: Văn hóa không còn sống trong cộng đồng mà chỉ tồn tại như công cụ kinh doanh"
     }
   ],
   finalConclusion: {
