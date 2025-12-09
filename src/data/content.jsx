@@ -47,7 +47,7 @@ export const CASE_STUDY_DATA = {
       comparisonGroup: {
         // Phần A: XANH
         partA: {
-          title: "a) Giữ gìn những giá trị truyền thống tiến bộ, nhân văn",
+          title: "a. Giữ gìn những giá trị truyền thống tiến bộ, nhân văn",
           items: [
             "Hoa văn có ý nghĩa tộc người.",
             "Nghi lễ thiêng liêng (thần linh, mùa màng).",
@@ -56,7 +56,7 @@ export const CASE_STUDY_DATA = {
         },
         // Phần B: ĐỎ
         partB: {
-          title: "b) Chống lại những hành vi làm “tha hóa” văn hóa",
+          title: "b. Chống lại những hành vi làm “tha hóa” văn hóa",
           subTitle: "Khi lễ hội thiêng bị biến thành show diễn hàng ngày, nó:",
           items: [
             "Mất tính thiêng",
